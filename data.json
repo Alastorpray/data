@@ -1,0 +1,16 @@
+[
+  {
+    "nombres": "jose",
+    "apellidos": "patinho",
+    "direccion": "lima101",
+    "utensilios": "Charolas y platos",
+    "descripcion": "comida a la habitacion"
+  },
+  {
+    "nombres": "maria",
+    "apellidos": "linares",
+    "direccion": "lima102",
+    "utensilios": "Charolas y platos",
+    "descripcion": "comida a la habitacion"
+  }
+]
